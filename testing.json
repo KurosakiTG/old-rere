@@ -1,0 +1,110 @@
+{
+  "x": {
+    "a1": "v1",
+    "b2": {
+      "c3": {
+        "d4": [
+          {
+            "e5": "x",
+            "f6": {
+              "g7": {
+                "h8": "z",
+                "i9": [
+                  {
+                    "j0": "k1",
+                    "l2": {
+                      "m3": true,
+                      "n4": "o5"
+                    }
+                  },
+                  {
+                    "p6": "q7",
+                    "r8": 99
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "s9": {
+              "t0": {
+                "u1": {
+                  "v2": [
+                    "w3",
+                    "x4",
+                    {
+                      "y5": "z6",
+                      "aa7": {
+                        "bb8": [
+                          "cc9",
+                          "dd0"
+                        ]
+                      }
+                    }
+                  ],
+                  "ab8": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "ac9": {
+      "ad0": {
+        "ae1": {
+          "af2": {
+            "ag3": "ah4",
+            "ai5": {
+              "aj6": "ak7",
+              "al8": {
+                "am9": 3.14,
+                "an0": {
+                  "ao1": [
+                    1,
+                    2,
+                    {
+                      "ap2": "aq3",
+                      "ar4": false
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "data": {
+    "complex": {
+      "key": [
+        {
+          "subKey": "value",
+          "anotherKey": {
+            "nestedKey": [
+              "item1",
+              {
+                "deeply": {
+                  "nested": [
+                    "value1",
+                    "value2",
+                    {
+                      "notReadable": {
+                        "structure": "overlyComplicated",
+                        "examples": [
+                          "example1",
+                          "example2"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
